@@ -56,6 +56,7 @@ public class WindowHandleEx {
 
 		int si = driver.getWindowHandles().size();
 		System.out.println(si);
+System.out.println("hello");
 	}
 
 
